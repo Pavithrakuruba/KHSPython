@@ -1,0 +1,16 @@
+def add_numbers():
+    number_x=int(input("enter the number1"))
+    number_y=int(input("enter the number2"))
+    print(number_x+number_y)
+    number2_X=int(input("enter the number3"))
+    number3_y=int(input("enter the number4"))    
+    print(number_x+number3_y)
+    a=int(input("enter the number5"))
+    b=int(input("enter the number6"))
+    print(a+b)
+    n=int(input("enter the number"))
+    n1=int(input("enter the number"))
+    print(number_x+number_y/n+n1)
+add_numbers()
+add_numbers()
+
